@@ -1,0 +1,8 @@
+{
+    "cs492-server": {
+        "image": ":cs492-server.cs492-server.1",
+        "ports": {
+            "7777": "HTTP"
+        }
+    }
+}

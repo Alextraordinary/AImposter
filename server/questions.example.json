@@ -1,0 +1,65 @@
+{
+    "formId": "1j9tE3lK_XIeS9PuNW0Qhg_i7N-NOyQn1smISprhPqYI",
+    "formUri": "https://docs.google.com/forms/d/e/1FAIpQLScGIUwXXMirgdkcFhEwFQhgnPqTFglVdEje_DIEpM99bkkAyA/viewform",
+    "questions": [
+        {
+            "choices": [
+                {
+                    "choiceId": "1",
+                    "value": "True"
+                },
+                {
+                    "choiceId": "2",
+                    "value": "False"
+                }
+            ],
+            "correct": {
+                "feedback": "True is correct!",
+                "value": "True"
+            },
+            "questionId": "1052298206",
+            "text": "Are you Human?"
+        },
+        {
+            "choices": [
+                {
+                    "choiceId": "1",
+                    "value": "Hotdog"
+                },
+                {
+                    "choiceId": "2",
+                    "value": "Not Hot"
+                },
+                {
+                    "choiceId": "3",
+                    "value": "Not Dog"
+                }
+            ],
+            "correct": {
+                "feedback": "Not dog is correct!",
+                "value": "Hotdog"
+            },
+            "questionId": "137205999",
+            "text": "Hotdog or not Hotdog?"
+        },
+        {
+            "choices": [
+                {
+                    "choiceId": "1",
+                    "value": "Indeed, plans to direct voters to a site with legitimate voting information – and ensuring ChatGPT doesn’t misrepresent democratic processes – would suggest, at least on the surface, that OpenAI may have enforced tighter regulations on itself than many of the other channels we use to source information, where disinformation often festers."
+                },
+                {
+                    "choiceId": "2",
+                    "value": "Once in a tranquil village nestled between verdant hills and crystal-clear streams, there lived a curious young boy named Eli. Eli was known throughout the village for his insatiable curiosity and adventurous spirit. Despite the peaceful life the village offered, he dreamed of exploring the world beyond the hills that cradled their homes."
+                }
+            ],
+            "correct": {
+                "feedback": "Second one is correct!",
+                "value": "Indeed, plans to direct voters to a site with legitimate voting information – and ensuring ChatGPT doesn’t misrepresent democratic processes – would suggest, at least on the surface, that OpenAI may have enforced tighter regulations on itself than many of the other channels we use to source information, where disinformation often festers."
+            },
+            "questionId": "137635383",
+            "text": "What is AI Generated?"
+        }
+    ],
+    "title": "AImposter?"
+}

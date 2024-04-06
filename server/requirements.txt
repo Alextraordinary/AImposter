@@ -1,0 +1,10 @@
+argparse
+bs4
+flask
+Flask-Cors
+google
+google-auth
+google-api-python-client
+regex
+requests
+waitress
